@@ -246,7 +246,7 @@ Cada microsserviço possui um arquivo `src/main/resources/application.properties
 
 ## 🤝 Contribuições
 
-Este é um projeto de estudo do curso Udemy: **"Quarkus Framework - Microserviços com Kafka"**
+Este é um projeto de implementação representa o resultado de estudo e implementação pessoal das tecnologias e padões de projeto mais usadas do mercado.
 
 ---
 
