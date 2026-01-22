@@ -200,7 +200,7 @@ O sistema utiliza **Keycloak** como servidor de autenticação:
 4. Gateway valida o token e roteia para o microsserviço apropriado
 5. Cada microsserviço também valida a autorização do usuário
 
----
+<!-- ---
 
 ## 📊 Fluxo de Dados com Kafka
 
@@ -212,7 +212,7 @@ Cotação Microservice → Publica Eventos (tópico: quotations)
                     Processam e Armazenam em BDs
 ```
 
-Os microsserviços de Proposta e Relatório **consomem** eventos publicados pelo microsserviço de Cotação, permitindo comunicação assíncrona e desacoplamento entre serviços.
+Os microsserviços de Proposta e Relatório **consomem** eventos publicados pelo microsserviço de Cotação, permitindo comunicação assíncrona e desacoplamento entre serviços. -->
 
 ---
 
