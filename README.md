@@ -4,7 +4,7 @@ Projeto de arquitetura de microserviços desenvolvido com **Quarkus Framework** 
 
 ---
 
-## 🔗 Repositórios dos Microsserviços
+## 🔗 Repositórios de cada Microsserviço separadamente
 
 - **[Gateway BFF](https://github.com/phedrohenrick/gateway-bff_microservice_quarkus)** - Camada de autenticação e roteamento
 - **[Cotação](https://github.com/phedrohenrick/cotacao_microservice_quarkus)** - Serviço de conversão de moedas
